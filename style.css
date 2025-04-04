@@ -23,18 +23,22 @@ a:hover {
   background: #0056b3;
 }
 
-.text-gradient {
-  font-size: 18px;
-  font-weight: bold;
+.about-button {
+  font-size: 15px;
+  font-weight: medium;
   text-decoration: none;
-  background: linear-gradient(to right, #1e2a3a, #f5c542);
+  background: linear-gradient(to right, #171d95, #f5c542);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
   color: transparent;
-  transition: opacity 0.3s ease;
+  transition: none;
 }
 
-.text-gradient:hover {
-  opacity: 0.75;
+.about-button:hover {
+  background: linear-gradient(to right, #171d95, #f5c542);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
 }
