@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://dzmitry99.github.io/ai-site-draft/sitemap.xml
