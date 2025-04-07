@@ -42,3 +42,9 @@ a:hover {
   background-clip: text;
   color: transparent;
 }
+
+.footer-text {
+  margin-top: 40px;
+  font-size: 12px;
+  text-align: center;
+}
